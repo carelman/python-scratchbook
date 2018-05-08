@@ -1,7 +1,8 @@
 ---
 title: Basics
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
@@ -10,3 +11,5 @@ child_type: docs
 # Basics
 
 Discover the **basic** principles
+
+This is not a joke.
